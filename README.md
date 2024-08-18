@@ -1,16 +1,18 @@
-## Hi there 👋
+## Sejam bem-vindos ao meu perfil💗
 
-<!--
-**alinemichellen/alinemichellen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Aline Michelen
 
-Here are some ideas to get you started:
+Estou estudando Alura, junto com meus alunos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Também estou desenvolvendo a linguagem de programação javaScript
+
+Uso esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos;
+
+### VOCÊ PODE ENTRAR EM CONTATO COMIGO###📣💻📫
+
+alinemichellen@hotmail.com
+
+@alinemichellen@hotmail.com
+
+github.com/alinemichellen/alinemichellen/edit/main/README.md
+
